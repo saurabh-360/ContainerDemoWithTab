@@ -24,10 +24,10 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <containerView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="lhC-uc-nl0">
-                                <rect key="frame" x="0.0" y="44" width="375" height="623"/>
+                                <rect key="frame" x="0.0" y="44" width="375" height="566"/>
                             </containerView>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="37j-UD-x62">
-                                <rect key="frame" x="0.0" y="597" width="375" height="70"/>
+                                <rect key="frame" x="0.0" y="608" width="375" height="59"/>
                                 <subviews>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Nc7-Gh-gP1">
                                         <rect key="frame" x="0.0" y="0.0" width="94" height="70"/>
@@ -132,17 +132,17 @@
                                     <constraint firstItem="sJS-yR-uiW" firstAttribute="top" secondItem="Nc7-Gh-gP1" secondAttribute="top" id="Yq0-jF-Fg7"/>
                                     <constraint firstItem="4Tt-jA-mD7" firstAttribute="bottom" secondItem="ebp-bf-o5C" secondAttribute="bottom" id="dr1-OS-ST4"/>
                                     <constraint firstItem="sJS-yR-uiW" firstAttribute="width" secondItem="Nc7-Gh-gP1" secondAttribute="width" id="ei9-q7-ldj"/>
-                                    <constraint firstAttribute="height" constant="70" id="fLl-Cb-IFe"/>
-                                    <constraint firstAttribute="bottom" secondItem="Nc7-Gh-gP1" secondAttribute="bottom" id="m6c-3Z-Tvj"/>
+                                    <constraint firstAttribute="height" constant="59" id="fLl-Cb-IFe"/>
+                                    <constraint firstAttribute="bottom" secondItem="Nc7-Gh-gP1" secondAttribute="bottom" constant="-11" id="m6c-3Z-Tvj"/>
                                     <constraint firstItem="sJS-yR-uiW" firstAttribute="bottom" secondItem="Nc7-Gh-gP1" secondAttribute="bottom" id="yCc-PJ-tw1"/>
                                     <constraint firstItem="ebp-bf-o5C" firstAttribute="top" secondItem="sJS-yR-uiW" secondAttribute="top" id="zls-LR-KOB"/>
                                 </constraints>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Oav-jL-gjw">
-                                <rect key="frame" x="200" y="549" width="70" height="70"/>
+                                <rect key="frame" x="204" y="581" width="62" height="62"/>
                                 <subviews>
                                     <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="tabGiftery" translatesAutoresizingMaskIntoConstraints="NO" id="qKO-gq-NR9">
-                                        <rect key="frame" x="14.5" y="14.5" width="41" height="41"/>
+                                        <rect key="frame" x="10.5" y="10.5" width="41" height="41"/>
                                         <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="41" id="a0R-R9-px3"/>
@@ -153,18 +153,18 @@
                                 <color key="backgroundColor" red="0.52156862745098043" green="0.73725490196078436" blue="0.74117647058823533" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstItem="qKO-gq-NR9" firstAttribute="centerY" secondItem="Oav-jL-gjw" secondAttribute="centerY" id="2Fl-Xs-fv1"/>
-                                    <constraint firstAttribute="height" constant="70" id="BOH-8I-qKl"/>
+                                    <constraint firstAttribute="height" constant="62" id="BOH-8I-qKl"/>
                                     <constraint firstItem="qKO-gq-NR9" firstAttribute="centerX" secondItem="Oav-jL-gjw" secondAttribute="centerX" id="TTx-vm-Aca"/>
-                                    <constraint firstAttribute="width" constant="70" id="maF-uT-gP9"/>
+                                    <constraint firstAttribute="width" constant="62" id="maF-uT-gP9"/>
                                 </constraints>
                                 <userDefinedRuntimeAttributes>
                                     <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
-                                        <integer key="value" value="35"/>
+                                        <integer key="value" value="31"/>
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
                             </view>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Sia-hI-ueJ">
-                                <rect key="frame" x="283" y="479" width="50" height="50"/>
+                                <rect key="frame" x="283" y="507" width="50" height="50"/>
                                 <color key="backgroundColor" red="0.96078431372549022" green="0.55294117647058827" blue="0.53725490196078429" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="50" id="1vF-Qf-D2z"/>
@@ -180,8 +180,8 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="lhC-uc-nl0" firstAttribute="bottom" secondItem="37j-UD-x62" secondAttribute="bottom" id="8x4-C2-hPF"/>
-                            <constraint firstItem="7zK-9I-ilk" firstAttribute="top" secondItem="Oav-jL-gjw" secondAttribute="bottom" constant="-22" id="B9C-Xy-fgK"/>
+                            <constraint firstItem="lhC-uc-nl0" firstAttribute="bottom" secondItem="37j-UD-x62" secondAttribute="bottom" constant="-57" id="8x4-C2-hPF"/>
+                            <constraint firstItem="7zK-9I-ilk" firstAttribute="top" secondItem="Oav-jL-gjw" secondAttribute="bottom" constant="-35" id="B9C-Xy-fgK"/>
                             <constraint firstItem="Oav-jL-gjw" firstAttribute="centerX" secondItem="7zK-9I-ilk" secondAttribute="centerX" id="FED-Tz-Gev"/>
                             <constraint firstItem="37j-UD-x62" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="Kjj-O1-XYM"/>
                             <constraint firstItem="lhC-uc-nl0" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="-16" id="WJZ-jp-06B"/>
