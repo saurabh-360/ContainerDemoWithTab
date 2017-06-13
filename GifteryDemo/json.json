@@ -1,0 +1,134 @@
+[
+  {
+    "Name": "Riya",
+    "Occasion": "Birthday",
+    "Date": "2017-08-06",
+    "Gifted": "FALSE"
+  },
+  {
+    "Name": "Ayushi Kamani",
+    "Occasion": "Housewarming",
+    "Date": "2017-10-06",
+    "Gifted": "TRUE"
+  },
+  {
+    "Name": "",
+    "Occasion": "Diwali",
+    "Date": "2017-12-06",
+    "Gifted": "FALSE"
+  },
+  {
+    "Name": "Samyuktha",
+    "Occasion": "Wedding",
+    "Date": "2017-06-20",
+    "Gifted": "TRUE"
+  },
+  {
+    "Name": "Anahita",
+    "Occasion": "Baby Shower",
+    "Date": "2017-07-13",
+    "Gifted": "FALSE"
+  },
+  {
+    "Name": "Kabir",
+    "Occasion": "Birthday",
+    "Date": "2017-07-15",
+    "Gifted": "FALSE"
+  },
+  {
+    "Name": "Aanchal Singh",
+    "Occasion": "Birthday",
+    "Date": "2017-09-10",
+    "Gifted": "TRUE"
+  },
+  {
+    "Name": "Rajesh Das",
+    "Occasion": "Retirement Party",
+    "Date": "2017-03-11",
+    "Gifted": "FALSE"
+  },
+  {
+    "Name": "Sanjay",
+    "Occasion": "Puja",
+    "Date": "2017-11-11",
+    "Gifted": "FALSE"
+  },
+  {
+    "Name": "Saksham",
+    "Occasion": "Wedding Reception",
+    "Date": "2017-11-11",
+    "Gifted": "FALSE"
+  },
+  {
+    "Name": "Devyani",
+    "Occasion": "Graduation Day",
+    "Date": "2017-11-17",
+    "Gifted": "FALSE"
+  },
+  {
+    "Name": "Ankit",
+    "Occasion": "Promotion party",
+    "Date": "2017-05-12",
+    "Gifted": "FALSE"
+  },
+  {
+    "Name": "Vikraant",
+    "Occasion": "Dinner Party",
+    "Date": "2017-07-12",
+    "Gifted": "FALSE"
+  },
+  {
+    "Name": "Sahaana",
+    "Occasion": "Baby Shower",
+    "Date": "2017-12-17",
+    "Gifted": "TRUE"
+  },
+  {
+    "Name": "",
+    "Occasion": "Christmas",
+    "Date": "2017-12-25",
+    "Gifted": "TRUE"
+  },
+  {
+    "Name": "Anuj Davar",
+    "Occasion": "Retirement",
+    "Date": "2018-11-01",
+    "Gifted": "FALSE"
+  },
+  {
+    "Name": "Deepika",
+    "Occasion": "Birthday",
+    "Date": "2018-04-02",
+    "Gifted": "FALSE"
+  },
+  {
+    "Name": "Karn",
+    "Occasion": "Engagement",
+    "Date": "2018-03-17",
+    "Gifted": "FALSE"
+  },
+  {
+    "Name": "Pooja Das",
+    "Occasion": "Birthday",
+    "Date": "2018-04-04",
+    "Gifted": "FALSE"
+  },
+  {
+    "Name": "Divya Kapur",
+    "Occasion": "Graduation Day",
+    "Date": "2018-04-17",
+    "Gifted": "FALSE"
+  },
+  {
+    "Name": "Aditya",
+    "Occasion": "Holi Party",
+    "Date": "2018-08-05",
+    "Gifted": "FALSE"
+  },
+  {
+    "Name": "Lalit Kumar",
+    "Occasion": "Birthday",
+    "Date": "2018-10-05",
+    "Gifted": "TRUE"
+  }
+]
