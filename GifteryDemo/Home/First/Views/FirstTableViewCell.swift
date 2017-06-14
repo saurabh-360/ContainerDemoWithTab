@@ -63,7 +63,7 @@ class FirstTableViewCell: UITableViewCell {
         }else{
             giftLabel.text = "GIFT"
             tickImageView.isHidden = true
-            self.paddedView.backgroundColor = UIColor.init(hex: "dad2d5")
+            self.paddedView.backgroundColor = UIColor.white
             self.personNameLabel.textColor = UIColor.init(hex: "8c6b74")
             self.occasionLabel.textColor = UIColor.init(hex: "939598")
             self.dateLabel.textColor = UIColor.init(hex: "8c6b74")
