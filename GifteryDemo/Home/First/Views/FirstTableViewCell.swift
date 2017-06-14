@@ -56,10 +56,18 @@ class FirstTableViewCell: UITableViewCell {
             giftLabel.text = ""
             tickImageView.isHidden = false
             self.paddedView.backgroundColor = UIColor.init(hex: "dad2d5")
-            
+            self.personNameLabel.textColor = UIColor.init(hex: "939598")
+            self.occasionLabel.textColor = UIColor.init(hex: "939598")
+            self.dateLabel.textColor = UIColor.init(hex: "939598")
+            self.noOfDaysLabel.textColor = UIColor.init(hex: "939598")
         }else{
             giftLabel.text = "GIFT"
             tickImageView.isHidden = true
+            self.paddedView.backgroundColor = UIColor.init(hex: "dad2d5")
+            self.personNameLabel.textColor = UIColor.init(hex: "8c6b74")
+            self.occasionLabel.textColor = UIColor.init(hex: "939598")
+            self.dateLabel.textColor = UIColor.init(hex: "8c6b74")
+            self.noOfDaysLabel.textColor = UIColor.init(hex: "f58d89")
         }
         
     }
